@@ -4,7 +4,7 @@ React Samples
 the following setup to create new project and required node modules.
 
 1) Create a Project Folder
-	  mkdir es6-react-setup
+	  mkdir es6-react-setup \n
 2) init NPM and package.json
     npm init
 3) install react react-dom
