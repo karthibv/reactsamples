@@ -29,6 +29,7 @@ The following setup to create new sample project and adding required node module
  
 7) setup webpack server 
   webpack.config.js
+  
   	module.exports ={
 	
 	 entry : './main.js',
