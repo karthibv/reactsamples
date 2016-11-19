@@ -23,7 +23,7 @@ The following setup to create new sample project and adding required node module
 
     npm install babel webpack webpack-dev-server -g
     
-6) Create project files under Project folder es6-react-setup
+6) Create below project files under the  'es6-react-setup' folder
 
     index.html, App.js , main.js , webpack.config.js
     
