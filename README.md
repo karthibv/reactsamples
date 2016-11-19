@@ -96,11 +96,17 @@ The following setup to create new sample project and adding required node module
 9) App.js
 
 import React from 'react';
+
 class App extends React.Component {
+
    render (){
+   
      return <div>Hello World</div>
+     
    }
+   
 }
+
 
 export default App
 
@@ -108,8 +114,16 @@ export default App
 10) main.js
 
 import React from 'react'
+
 import ReactDOM from 'react-dom'
+
 import App from './App'
 
 ReactDOM.render(<App />,document.getElementById('app'))
+
+11) run the sample
+
+npm start
+
+
 
