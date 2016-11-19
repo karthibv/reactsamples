@@ -1,7 +1,7 @@
 # reactsamples
 React Samples
 
-the following setup to create new sample project and adding required node modules.
+The following setup to create new sample project and adding required node modules.
 
 1) Create a Project Folder
 	  mkdir es6-react-setup 
